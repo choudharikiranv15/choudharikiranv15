@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kiran Choudhari
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Web Development & python
+- 👀 I’m interested in Web Development & Machine Learning
+- 🌱 I’m currently learning Web Machine Learning
 - 🙌 I’m looking to collaborate on projects
 - 📫 How to reach me email - choudharikiranv2003@gmail.com
 - Linkedin - www.linkedin.com/in/kiran-choudhari-65040724b
