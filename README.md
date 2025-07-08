@@ -4,6 +4,7 @@
 - 🙌 I’m looking to collaborate on projects
 - 📫 How to reach me email - choudharikiranv2003@gmail.com
 - Linkedin - www.linkedin.com/in/kiran-choudhari-65040724b
+- AI Portfolio Agent - https://huggingface.co/spaces/choudharikiranv2003/portfolio_agent
   
 
 <!---
