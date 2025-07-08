@@ -5,7 +5,7 @@
 ---
 
 ## 🌟 About Me
-I'm a passionate software engineer specializing in full-stack web development and AI/ML. With over **4 years of experience in HTML, CSS & JavaScript**, I build scalable and interactive applications. I hold a B.E. in Artificial Intelligence & Machine Learning from MVJ College of Engineering, Bengaluru. My interests include exploring new frameworks, working on impactful ML projects, and continuously learning.
+I'm a passionate software engineer specializing in full-stack web development and AI/ML. With Handson Experience in **Web Development & Machine Learning**, I build scalable and interactive applications. I hold a B.E. in Artificial Intelligence & Machine Learning from MVJ College of Engineering, Bengaluru. My interests include exploring new frameworks, working on impactful ML projects, and continuously learning.
 
 ---
 
