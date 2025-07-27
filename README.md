@@ -29,7 +29,7 @@ I'm a passionate software engineer specializing in full-stack web development an
 | **Fruits Classifier** | Python · TensorFlow · Streamlit | CNN-based fruit image classifier with data augmentation & live predictions |
 | **Node.js Blogging App** | Node · Express · MongoDB · JWT · EJS | Blogging platform supporting user auth, rich-text editor, comments, file uploads via Multer |
 
-*(Visit my [GitHub](https://github.com/choudharikiranv15) for full repos & demos)*
+*(Visit my [GitHub](https://github.com/choudharikiranv15?tab=repositories) for full repos & demos)*
 
 ---
 
