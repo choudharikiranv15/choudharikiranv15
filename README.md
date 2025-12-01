@@ -186,12 +186,12 @@ Complete inventory and billing solution with real-time stock tracking, invoice g
 <tr>
 <td>
 
-**🏢 Full-Stack Developer Intern**
-*Varcons Technologies* • Nov 2024 – May 2025
+**🤖 AI Intern**
+*Crafttech 360* • Sep – Nov 2025
 
-- Built production-level React + Node.js applications
-- Developed REST APIs with PostgreSQL integration
-- Implemented JWT authentication & role-based access
+- Built CI/CD pipelines on Azure - reduced latency 25%, deployment time 40%
+- Developed RAG system for AI-powered screen-free toy (Cheeko)
+- Containerized services with Docker, integrated PostgreSQL & Redis
 
 </td>
 <td>
