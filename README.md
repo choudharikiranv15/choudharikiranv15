@@ -201,7 +201,7 @@ Complete inventory and billing solution with real-time stock tracking, invoice g
 
 - Led a team of 200+ volunteers across the tech fest
 - Successfully conducted a hackathon with 50+ teams participation
-- Managed end-to-end operations and technical events
+- Organized 30+ tech events and workshops
 
 </td>
 </tr>
