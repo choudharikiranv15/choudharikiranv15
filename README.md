@@ -164,12 +164,12 @@ Complete inventory and billing solution with real-time stock tracking, invoice g
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="28" /> GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=choudharikiranv15&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=A855F7&text_color=ffffff&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats"/>
-  <img width="49%" src="https://streak-stats.demolab.com?user=choudharikiranv15&theme=tokyonight&hide_border=true&background=0D1117&stroke=06B6D4&ring=A855F7&fire=06B6D4&currStreakLabel=06B6D4&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=choudharikiranv15&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=A855F7&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=choudharikiranv15&theme=tokyonight&hide_border=true&background=0D1117&stroke=06B6D4&ring=A855F7&fire=06B6D4&currStreakLabel=06B6D4&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=choudharikiranv15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&text_color=ffffff&langs_count=8&cache_seconds=1800" alt="Top Languages"/>
+  <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=choudharikiranv15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&text_color=ffffff&langs_count=8" alt="Top Languages"/>
 </div>
 
 <!-- Activity Graph -->
