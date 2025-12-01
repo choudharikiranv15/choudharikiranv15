@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kiran%20Choudhari&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Building%20the%20Future%20with%20Code%20%26%20AI&descAlignY=52&descSize=18)
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kiran%20Choudhari&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Building%20the%20Future%20with%20Code%20and%20AI&descAlignY=52&descSize=18" alt="Header"/>
 
   <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
@@ -224,7 +224,7 @@ Complete inventory and billing solution with real-time stock tracking, invoice g
 <!-- Footer -->
 <div align="center">
 
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="Footer"/>
 
   **Thanks for visiting!** 🚀
 
