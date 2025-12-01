@@ -199,9 +199,9 @@ Complete inventory and billing solution with real-time stock tracking, invoice g
 **🎪 Chief Coordinator - VertechX**
 *MVJ College of Engineering* • Jun – Dec 2024
 
-- Led a team of 180+ volunteers
-- Managed tech fest operations end-to-end
-- Coordinated multiple technical events
+- Led a team of 200+ volunteers across the tech fest
+- Successfully conducted a hackathon with 50+ teams participation
+- Managed end-to-end operations and technical events
 
 </td>
 </tr>
