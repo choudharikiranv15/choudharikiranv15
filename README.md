@@ -101,10 +101,9 @@ An intelligent voice-powered document Q&A system with multilingual TTS, real-tim
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-121212?style=flat-square)
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 
-[🔗 Live Demo](https://dokguru.vercel.app) • [📂 Repo](https://github.com/choudharikiranv15/DocuMind-Voice-QA-System)
+[🔗 Live Demo](https://dokguru.in) • [📂 Repo](https://github.com/choudharikiranv15/DocuMind-Voice-QA-System)
 
 </td>
 <td width="50%" valign="top">
@@ -114,11 +113,11 @@ An intelligent voice-powered document Q&A system with multilingual TTS, real-tim
 
 Full-featured shopping platform with OTP authentication, cart management, and admin dashboard.
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-[🔗 Live Demo](https://shop-ease-ebon.vercel.app/) • [📂 Repo](https://github.com/choudharikiranv15/ShopEase)
+[🔗 Live Demo](https://shopease-cyan.vercel.app) • [📂 Repo](https://github.com/choudharikiranv15/ShopEase)
 
 </td>
 </tr>
