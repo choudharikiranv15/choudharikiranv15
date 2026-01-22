@@ -124,17 +124,20 @@ Full-featured shopping platform with OTP authentication, cart management, and ad
 <tr>
 <td width="50%" valign="top">
 
-### 🦴 Bone Fracture Detection
-**Medical Imaging AI**
+### OpsPilot - AI Debugging Agent
+**Agentic Reliability Assistant**
 
-Deep learning pipeline comparing YOLOv8, VGG16, and Fast R-CNN for accurate bone fracture detection from X-ray images.
+Local-first agentic debugging tool that analyzes project artifacts, reasons about runtime failures, verifies hypotheses using deterministic tools, and generates confidence-gated, dry-run fix suggestions.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/-YOLOv8-00FFFF?style=flat-square)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![LLM](https://img.shields.io/badge/-LLM-7A2E8F?style=flat-square&logo=python&logoColor=white)
+![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/-Agentic_AI-FF6C37?style=flat-square&logo=artstation&logoColor=white)
+![CLI](https://img.shields.io/badge/-CLI-4A90E2?style=flat-square&logo=terminal&logoColor=white)
+![Typer](https://img.shields.io/badge/-Typer-000000?style=flat-square&logo=python&logoColor=white)
 
-[📂 Repo](https://github.com/choudharikiranv15/Bone-Fracture-Detection)
+
+[📂 Repo](https://github.com/choudharikiranv15/opspilot)
 
 </td>
 <td width="50%" valign="top">
